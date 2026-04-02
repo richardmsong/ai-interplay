@@ -7,7 +7,5 @@ build/
 .venv/
 venv/
 .env
-results/*.csv
-results/*.json
 !results/.gitkeep
 .DS_Store
